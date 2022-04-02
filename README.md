@@ -1,6 +1,4 @@
 # UDP-local-chat
-First course work
-
 
 ### Register form
 ![Login Form](images/1.jpg)
